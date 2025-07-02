@@ -1,0 +1,2 @@
+2025-07-02|+5000|Savings|Monthly savings
+2025-07-02|-10|Issues|Fixed a debt
